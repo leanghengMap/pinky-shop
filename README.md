@@ -1,3 +1,3 @@
 # pinky-shop
-first-project only html and css only
+first-project only html css and js library
  
